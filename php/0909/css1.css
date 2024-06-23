@@ -1,0 +1,20 @@
+*{
+padding:0px;
+margin:0px;
+}
+
+body{
+ background-color:cyan;
+}
+
+
+.formulario{
+ position:absolute;
+ display: grid;
+ transform:translate(-50%,-50%);
+ left:50%;
+ top:50%;
+ background-color:rgba(127, 164, 176, 0.4);
+ width:30%;
+ height:50%;
+}

@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.form_content{
+       position: absolute;
+       width:25%;
+       height:auto;
+       padding: 20px;
+       background-color:#304027;
+       transform: translate(-50%,50%);
+       left:50%;
+       top:25%;
+}
